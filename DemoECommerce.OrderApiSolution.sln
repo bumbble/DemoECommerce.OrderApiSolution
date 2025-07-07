@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApi.Infrastructure", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApi.Presentation", "OrderApi.Presentation\OrderApi.Presentation.csproj", "{1AC6C60D-EAB1-4A34-B36C-9F0AAB626422}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerce.SharedLibrary", "..\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\eCommerce.SharedLibrary.csproj", "{037A0280-0D01-FF6F-6210-90E1ECB2528E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1AC6C60D-EAB1-4A34-B36C-9F0AAB626422}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC6C60D-EAB1-4A34-B36C-9F0AAB626422}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC6C60D-EAB1-4A34-B36C-9F0AAB626422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037A0280-0D01-FF6F-6210-90E1ECB2528E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037A0280-0D01-FF6F-6210-90E1ECB2528E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037A0280-0D01-FF6F-6210-90E1ECB2528E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037A0280-0D01-FF6F-6210-90E1ECB2528E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
